@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logperhotelan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="kamar.xsd">
+<kamar terisi ="ya">
+<kode>A12</kode>
+<tipe>Single-Room</tipe>
+<harga>300000</harga>
+<id_tamu>1122456</id_tamu>
+<nama_tamu>Indra Saryoni</nama_tamu>
+<asal>Medan</asal>
+<telp>089789778090</telp>
+<jumlah_tamu>1</jumlah_tamu>
+<email>indras@nikica.com</email>
+<checkin>
+<hari>Sabtu</hari>
+<jam>2</jam>
+</checkin>
+<checkout>
+<hari>Minggu</hari>
+<jam>12</jam>
+</checkout>
+</kamar>
+
+<kamar terisi ="tidak">
+<kode>B3</kode>
+<tipe>Double-Room</tipe>
+<harga>800000</harga>
+<id_tamu>1122098</id_tamu>
+<nama_tamu>Maulyanda</nama_tamu>
+<asal>Aceh</asal>
+<telp>087889112334</telp>
+<jumlah_tamu>2</jumlah_tamu>
+<email>maul@nikica.com</email>
+<checkin>
+<hari>Jumat</hari>
+<jam>2</jam>
+</checkin>
+<checkout>
+<hari>Minggu</hari>
+<jam>11</jam>
+</checkout>
+</kamar>
+
+<kamar terisi ="ya">
+<kode>A5</kode>
+<tipe>Single-Room</tipe>
+<harga>500000</harga>
+<id_tamu>1122123</id_tamu>
+<nama_tamu>Fitrilya</nama_tamu>
+<asal>Solo</asal>
+<telp>087889112367</telp>
+<jumlah_tamu>1</jumlah_tamu>
+<email>fitri@nikica.com</email>
+<checkin>
+<hari>Jumat</hari>
+<jam>2</jam>
+</checkin>
+<checkout>
+<hari>Minggu</hari>
+<jam>11</jam>
+</checkout>
+</kamar>
+
+<kamar terisi ="ya">
+<kode>B6</kode>
+<tipe>Double-Room</tipe>
+<harga>700000</harga>
+<id_tamu>1122101</id_tamu>
+<nama_tamu>Dhaniswara</nama_tamu>
+<asal>Malang</asal>
+<telp>087889166734</telp>
+<jumlah_tamu>2</jumlah_tamu>
+<email>dani@nikica.com</email>
+<checkin>
+<hari>Sabtu</hari>
+<jam>2</jam>
+</checkin>
+<checkout>
+<hari>Minggu</hari>
+<jam>11</jam>
+</checkout>
+</kamar>
+
+<kamar terisi ="ya">
+<kode>B11</kode>
+<tipe>Double-Room</tipe>
+<harga>800000</harga>
+<id_tamu>1122078</id_tamu>
+<nama_tamu>Ardy Fahrudin</nama_tamu>
+<asal>Jogja</asal>
+<telp>087889556774</telp>
+<jumlah_tamu>2</jumlah_tamu>
+<email>ardy@nikica.com</email>
+<checkin>
+<hari>Minggu</hari>
+<jam>2</jam>
+</checkin>
+<checkout>
+<hari>Selasa</hari>
+<jam>11</jam>
+</checkout>
+</kamar>
+
+<kamar terisi ="ya">
+<kode>B8</kode>
+<tipe>Exlusive-Room</tipe>
+<harga>900000</harga>
+<id_tamu>1122100</id_tamu>
+<nama_tamu>Simon Sorba</nama_tamu>
+<asal>Cirebon</asal>
+<telp>087889169939</telp>
+<jumlah_tamu>3</jumlah_tamu>
+<email>simon@nikica.com</email>
+<checkin>
+<hari>Sabtu</hari>
+<jam>2</jam>
+</checkin>
+<checkout>
+<hari>Senin</hari>
+<jam>11</jam>
+</checkout>
+</kamar>
+
+</logperhotelan>
